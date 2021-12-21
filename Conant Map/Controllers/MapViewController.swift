@@ -1034,8 +1034,8 @@ class MapViewController: UIViewController, SCNSceneRendererDelegate, OverlayDele
             for node in floor {
                 for intersection in Global.intersections {
                     if intersection.node == node.name {
-                        let startIndex = floor.index(of: node)! - 1
-                        let endIndex = floor.index(of: node)! + 1
+                        let startIndex = floor.firstIndex(of: node)! - 1
+                        let endIndex = floor.firstIndex(of: node)! + 1
                         if startIndex < 0 || endIndex >= floor.count {
                             break
                         }
