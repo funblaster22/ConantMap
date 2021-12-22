@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "3D17EFB720C5F599002AEBE2"
-               BuildableName = "Conant Map.app"
-               BlueprintName = "Conant Map"
+               BuildableName = "IMSA Map.app"
+               BlueprintName = "IMSA Map"
                ReferencedContainer = "container:IMSA Map.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -31,8 +31,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3D17EFB720C5F599002AEBE2"
-            BuildableName = "Conant Map.app"
-            BlueprintName = "Conant Map"
+            BuildableName = "IMSA Map.app"
+            BlueprintName = "IMSA Map"
             ReferencedContainer = "container:IMSA Map.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -54,8 +54,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3D17EFB720C5F599002AEBE2"
-            BuildableName = "Conant Map.app"
-            BlueprintName = "Conant Map"
+            BuildableName = "IMSA Map.app"
+            BlueprintName = "IMSA Map"
             ReferencedContainer = "container:IMSA Map.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -71,8 +71,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3D17EFB720C5F599002AEBE2"
-            BuildableName = "Conant Map.app"
-            BlueprintName = "Conant Map"
+            BuildableName = "IMSA Map.app"
+            BlueprintName = "IMSA Map"
             ReferencedContainer = "container:IMSA Map.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
