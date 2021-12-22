@@ -1,0 +1,6 @@
+**/node_modules
+**/.DS_Store
+Mac-Addresses.csv
+
+## Xcode User settings
+**/xcuserdata/
