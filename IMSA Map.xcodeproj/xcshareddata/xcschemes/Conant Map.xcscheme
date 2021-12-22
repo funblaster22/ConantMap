@@ -17,7 +17,7 @@
                BlueprintIdentifier = "3D17EFB720C5F599002AEBE2"
                BuildableName = "Conant Map.app"
                BlueprintName = "Conant Map"
-               ReferencedContainer = "container:Conant Map.xcodeproj">
+               ReferencedContainer = "container:IMSA Map.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,7 +33,7 @@
             BlueprintIdentifier = "3D17EFB720C5F599002AEBE2"
             BuildableName = "Conant Map.app"
             BlueprintName = "Conant Map"
-            ReferencedContainer = "container:Conant Map.xcodeproj">
+            ReferencedContainer = "container:IMSA Map.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <Testables>
@@ -56,7 +56,7 @@
             BlueprintIdentifier = "3D17EFB720C5F599002AEBE2"
             BuildableName = "Conant Map.app"
             BlueprintName = "Conant Map"
-            ReferencedContainer = "container:Conant Map.xcodeproj">
+            ReferencedContainer = "container:IMSA Map.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -73,7 +73,7 @@
             BlueprintIdentifier = "3D17EFB720C5F599002AEBE2"
             BuildableName = "Conant Map.app"
             BlueprintName = "Conant Map"
-            ReferencedContainer = "container:Conant Map.xcodeproj">
+            ReferencedContainer = "container:IMSA Map.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

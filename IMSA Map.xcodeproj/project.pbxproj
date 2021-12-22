@@ -79,7 +79,7 @@
 		3D1130E420DACDAC009AD6E4 /* NavigationSession.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationSession.swift; sourceTree = "<group>"; tabWidth = 4; usesTabs = 0; };
 		3D1130E620DCAE8E009AD6E4 /* Camera.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Camera.swift; sourceTree = "<group>"; };
 		3D11E0DA22EE9A3100AACF2E /* staff.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = staff.json; sourceTree = "<group>"; };
-		3D17EFB820C5F599002AEBE2 /* Conant Map.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Conant Map.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D17EFB820C5F599002AEBE2 /* IMSA Map.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "IMSA Map.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D17EFBB20C5F599002AEBE2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3D17EFBD20C5F599002AEBE2 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		3D17EFBF20C5F599002AEBE2 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
@@ -142,7 +142,7 @@
 		3DC37916217F9EC4005790CB /* OptionsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptionsController.swift; sourceTree = "<group>"; };
 		3DC37918217FE8FD005790CB /* OptionsDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptionsDelegate.swift; sourceTree = "<group>"; };
 		3DC3791A2180182D005790CB /* QuickSelectCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickSelectCell.swift; sourceTree = "<group>"; };
-		3DD0017823CDFB7A00011245 /* Conant Map.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Conant Map.entitlements"; sourceTree = "<group>"; };
+		3DD0017823CDFB7A00011245 /* IMSA Map.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "IMSA Map.entitlements"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -159,7 +159,7 @@
 		3D17EFAF20C5F599002AEBE2 = {
 			isa = PBXGroup;
 			children = (
-				3D17EFBA20C5F599002AEBE2 /* Conant Map */,
+				3D17EFBA20C5F599002AEBE2 /* IMSA Map */,
 				3D17EFB920C5F599002AEBE2 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -167,12 +167,12 @@
 		3D17EFB920C5F599002AEBE2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3D17EFB820C5F599002AEBE2 /* Conant Map.app */,
+				3D17EFB820C5F599002AEBE2 /* IMSA Map.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3D17EFBA20C5F599002AEBE2 /* Conant Map */ = {
+		3D17EFBA20C5F599002AEBE2 /* IMSA Map */ = {
 			isa = PBXGroup;
 			children = (
 				3D17EFBB20C5F599002AEBE2 /* AppDelegate.swift */,
@@ -189,9 +189,9 @@
 				3D17EFC620C5F599002AEBE2 /* LaunchScreen.storyboard */,
 				3D17EFC920C5F599002AEBE2 /* Info.plist */,
 				3D1ABEE822EAA05C00DFC55C /* Conant_Map.xcdatamodeld */,
-				3DD0017823CDFB7A00011245 /* Conant Map.entitlements */,
+				3DD0017823CDFB7A00011245 /* IMSA Map.entitlements */,
 			);
-			path = "Conant Map";
+			path = "IMSA Map";
 			sourceTree = "<group>";
 		};
 		3D3CAE3920E8542C00735610 /* Protocols */ = {
@@ -313,9 +313,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3D17EFB720C5F599002AEBE2 /* Conant Map */ = {
+		3D17EFB720C5F599002AEBE2 /* IMSA Map */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3D17EFCC20C5F599002AEBE2 /* Build configuration list for PBXNativeTarget "Conant Map" */;
+			buildConfigurationList = 3D17EFCC20C5F599002AEBE2 /* Build configuration list for PBXNativeTarget "IMSA Map" */;
 			buildPhases = (
 				3D17EFB420C5F599002AEBE2 /* Sources */,
 				3D17EFB520C5F599002AEBE2 /* Frameworks */,
@@ -325,9 +325,9 @@
 			);
 			dependencies = (
 			);
-			name = "Conant Map";
+			name = "IMSA Map";
 			productName = "Conant Map";
-			productReference = 3D17EFB820C5F599002AEBE2 /* Conant Map.app */;
+			productReference = 3D17EFB820C5F599002AEBE2 /* IMSA Map.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -364,7 +364,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3D17EFB320C5F599002AEBE2 /* Build configuration list for PBXProject "Conant Map" */;
+			buildConfigurationList = 3D17EFB320C5F599002AEBE2 /* Build configuration list for PBXProject "IMSA Map" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -377,7 +377,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3D17EFB720C5F599002AEBE2 /* Conant Map */,
+				3D17EFB720C5F599002AEBE2 /* IMSA Map */,
 			);
 		};
 /* End PBXProject section */
@@ -596,15 +596,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = "Conant Map/Conant Map.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "IMSA Map/IMSA Map.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 86FFSYZRW3;
-				INFOPLIST_FILE = "Conant Map/Info.plist";
+				DEVELOPMENT_TEAM = U9N9R76VZ5;
+				INFOPLIST_FILE = "IMSA Map/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 1.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.johnnywaity.Conant-Map";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.funblaster22.IMSA-Map";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
@@ -616,15 +616,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = "Conant Map/Conant Map.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "IMSA Map/IMSA Map.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 86FFSYZRW3;
-				INFOPLIST_FILE = "Conant Map/Info.plist";
+				DEVELOPMENT_TEAM = U9N9R76VZ5;
+				INFOPLIST_FILE = "IMSA Map/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 1.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.johnnywaity.Conant-Map";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.funblaster22.IMSA-Map";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
@@ -635,7 +635,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3D17EFB320C5F599002AEBE2 /* Build configuration list for PBXProject "Conant Map" */ = {
+		3D17EFB320C5F599002AEBE2 /* Build configuration list for PBXProject "IMSA Map" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3D17EFCA20C5F599002AEBE2 /* Debug */,
@@ -644,7 +644,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3D17EFCC20C5F599002AEBE2 /* Build configuration list for PBXNativeTarget "Conant Map" */ = {
+		3D17EFCC20C5F599002AEBE2 /* Build configuration list for PBXNativeTarget "IMSA Map" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3D17EFCD20C5F599002AEBE2 /* Debug */,

@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Conant Map.xcodeproj">
+      location = "group:/Users/amy/Documents/IMSAMap/IMSA Map.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
